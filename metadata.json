@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Anniversary — Our Story",
+  "description": "An interactive, cinematic digital love story and anniversary experience driven by video scroll choreography, evocative typography, and ambient lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
